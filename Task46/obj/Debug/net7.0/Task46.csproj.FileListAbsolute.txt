@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\bin\Debug\net7.0\Task46.exe
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\bin\Debug\net7.0\Task46.deps.json
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\bin\Debug\net7.0\Task46.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\bin\Debug\net7.0\Task46.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\bin\Debug\net7.0\Task46.pdb
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\refint\Task46.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.pdb
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\Task46.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum7\Task46\obj\Debug\net7.0\ref\Task46.dll
